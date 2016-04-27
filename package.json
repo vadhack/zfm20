@@ -1,0 +1,37 @@
+{
+  "name": "zfm20",
+  "version": "1.0.0",
+  "description": "Node package for drive fingerprint sensor ZFM20",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadhack/zfm20.git"
+  },
+  "keywords": [
+    "serialport",
+    "nodebots",
+    "fingerprint",
+    "sensor",
+    "raspberry",
+    "raspberrypi",
+    "pi",
+    "vadhack",
+    "vadbot",
+    "ZFM-20",
+    "zfm-20",
+    "zfm20"
+  ],
+  "dependencies": {
+    "serialport": "^2.1.0",
+    "async-result": "1.0.0"
+  },
+  "author": "Valentín Arámbulo Díaz <valentin.arambulo@gmail.com> (http://www.vadhack.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vadhack/zfm20/issues"
+  },
+  "homepage": "https://github.com/vadhack/zfm20#readme"
+}
