@@ -1,4 +1,4 @@
 
 
 
-###Async result driver for javascript applications
+###Node package for drive fingerprint sensor ZFM20
