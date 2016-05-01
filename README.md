@@ -151,3 +151,8 @@ result.ok(CALLBACK_ONOK)
 ### .fingerFastSearch()
 
 ### .getTemplateCount()
+
+
+
+
+#### Developed by http://www.vadhack.com
