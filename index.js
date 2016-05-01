@@ -19,7 +19,7 @@ OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHE
 
 
 var serialPort 	= require('serialport'),
-	Result 		= require('./async-result.js'),
+	Result 		= require('async-result'),
 	SerialPort 	= serialPort.SerialPort,
 	port,
 
