@@ -495,7 +495,7 @@ Sensorfp.prototype.getTemplateCount = function() {
   		templateCount <<= 8;
   		templateCount |= packet[3];
   	});
-  	return resultl;
+  	return result;
 };
 
 
